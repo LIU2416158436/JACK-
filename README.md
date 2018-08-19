@@ -1,8 +1,5 @@
 
-<HTML><HEAD>
-<TITLE>来自国家一级程序猿-刘原佚（JACK）</TITLE>
-<META content="MSHTML 5.00.2614.3500" name=GENERATOR><META content=FrontPage.Editor.Document name=ProgId><META content="text/html; charset=gb2312" http-equiv=Content-Type>
-<SCRIPT language=JavaScript>alert("第一次做，看完好吗？");
+alert("第一次做，看完好吗？");
 alert("真的，能看完，只不过是时间问题");
 alert("欢迎你来到JACK的世界！");
 alert("真的,你走运了！");
@@ -140,39 +137,3 @@ alert("为把我国建设成为富强民主文明的社会主义现代化国家�
 alert("又说多了！");
 alert("不要忘了你的誓言！");
 alert("祝贺你！你终于出来了！恭喜恭喜！");
-function copyLink() {
-  var tempval = document.getElementById("contentLink");
-  tempval.value = "这个游戏很有意思啊，要不要来试试。\n"+window.location.href;
-  tempval.select();
-  var therange = tempval.createTextRange();
-  therange.execCommand("Copy");
-}</SCRIPT>
-<style>*{font-size:18px}
-a{color:blue}
-a:hover{color:red}
-</style>
-</HEAD><BODY>
-<link rel="stylesheet" type="text/css" href="css/saoma.css" />
-<script type="text/javascript" src="/js/zr.js" charset="utf-8"></script>
-<p align="center">哈哈哈哈哈哈，大笨蛋</p>
-<img src="http://bbs.aimoxiang.com/zr/zr.jpg"  alt="666" />
-<p align="center">如果你也想与你的朋友开个同样的小玩笑</p>
-<p align="center">把二维码给他就可以了。<a href="javascript:void(0)" 
-
-onClick="copyLink()">点此复制链接</a> </p>
-<center>
-  <a href="http://bbs.aimoxiang.com/forum.php?mod=viewthread&tid=887">更多好玩的</a>
-  <a href="http://bbs.aimoxiang.com/forum.php?mod=viewthread&tid=1169" class="large button blue">&#x66F4;&#x591A;&#x7248;&#x672C;</a>
-			 <a href="http://bbs.aimoxiang.com/caidan" class="large button blue">&#x66F4;&#x591A;&#x6E38;&#x620F;</a>
-            <a href="http://bbs.aimoxiang.com/forum.php?mod=viewthread&tid=887" class="large button blue">&#x5B9A;&#x5236;&#x4E8C;&#x7EF4;&#x7801;</a>
-		</div>
-</center>
-<div style="display:none">
-<textarea id="contentLink" name="contentLink"></textarea>
-</div>
-<div style="display:none"><script src="https://s4.cnzz.com/z_stat.php?id=1261546923&web_id=1261546923" 
-
-language="JavaScript"></script></div>
-
-</BODY>
-</HTML>
